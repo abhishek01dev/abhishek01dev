@@ -8,7 +8,7 @@
   <a href="https://portfolio-ashen-nine-z672up0tf4.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white" /></a>
   <a href="https://linkedin.com/in/mranoint"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:abhisheksinghinfo7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/1lXaLt8BWbsTGVg9COOfARwR1oqhMZHNj/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-6C63FF?style=flat-square&logo=read-the-docs&logoColor=white" /></a>
+  <a href="https://portfolio-ashen-nine-z672up0tf4.vercel.app/Abhishek%20Kumar%20Singh.pdf"><img src="https://img.shields.io/badge/Resume-6C63FF?style=flat-square&logo=read-the-docs&logoColor=white" /></a>
 </p>
 
 ---
